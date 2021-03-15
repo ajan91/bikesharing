@@ -19,15 +19,19 @@ There is a line graph displaying the number of bikes checked out by duration for
 
 There is a line graph displaying the number of bikes that are checked out by duration for each gender by the hour, and the graph can be filtered by the hour and gender
 ![](Resources/D2.2.png)
+![](Resources/D2.9.png)
 
 A heatmap is created showing the number of bike trips for each hour of each day of the week
 ![](Resources/D2.3.png)
+![](Resources/D2.8.png)
 
 A heatmap is created showing the number of bike trips by gender for each hour of each day of the week, and the heatmap can be filtered by gender
 ![](Resources/D2.4.png)
+![](Resources/D2.7.png)
 
 A heatmap is created showing the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user and gender
 ![](Resources/D2.5.png)
+![](Resources/D2.6.png)
 
 # Deliverable 3: Create a Story and Report for the Final Presentation
 
@@ -44,3 +48,7 @@ There is a description of the results for each visualization
 Summary:
 
 There is a high-level summary of the results and two additional visualizations are suggested for future analysis
+![](Resources/D2.10.png)
+![](Resources/D2.11.png)
+![](Resources/D2.12.png)
+![](Resources/D2.13.png)
